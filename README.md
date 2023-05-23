@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi I'm Itamar 👋
+----------
+Here is my Linkedin profile:
+---------
+[My profile](https://www.linkedin.com/in/itamar-eilstein-08bb3221b/)
 <!--
 **Itamar9494/Itamar9494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
