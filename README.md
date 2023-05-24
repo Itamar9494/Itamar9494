@@ -7,7 +7,9 @@
 
 <a href="https://www.linkedin.com/in/itamar-eilstein-08bb3221b/" target="git"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git"></a> 
 <a href="mailto:itamar9494@gmail.com" target="git"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="git"></a>
-<--https://schulichleaders.co.il/scholars/%D7%90%D7%99%D7%AA%D7%9E%D7%A8-%D7%90%D7%99%D7%99%D7%9C%D7%A9%D7%98%D7%99%D7%99%D7%9F/-->
+<!--
+https://schulichleaders.co.il/scholars/%D7%90%D7%99%D7%AA%D7%9E%D7%A8-%D7%90%D7%99%D7%99%D7%9C%D7%A9%D7%98%D7%99%D7%99%D7%9F/
+-->
 <!--
 **Itamar9494/Itamar9494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
